@@ -18,4 +18,4 @@ port: 3306
 username: guest
 password: relational
 
-If this is not connecting, feel free to connect to the CSV files I’ve uploaded!
+If this is not connecting, feel free to connect to the CSV files Iâ€™ve uploaded!
