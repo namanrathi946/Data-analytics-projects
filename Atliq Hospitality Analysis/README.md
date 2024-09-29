@@ -64,5 +64,3 @@ I would love to connect and discuss this project or any related topics! Feel fre
 `#DataAnalytics` `#HospitalityIndustry` `#Tableau` `#Excel` `#BusinessInsights` `#DataVisualization`
 
 ---
-
-You can customize this content further by adding more details or adjusting the placeholders (e.g., GitHub and video links) as needed!
